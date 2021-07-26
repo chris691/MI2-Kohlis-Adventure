@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "coal-guy-chill-11.svg",
+	"frame": {"x":0,"y":0,"w":70,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":90},
+	"sourceSize": {"w":70,"h":90}
+},
+{
+	"filename": "coal-guy-jumping-18.svg",
+	"frame": {"x":70,"y":0,"w":70,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":90},
+	"sourceSize": {"w":70,"h":90}
+},
+{
+	"filename": "coal-guy-jumping-19.svg",
+	"frame": {"x":140,"y":0,"w":70,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":90},
+	"sourceSize": {"w":70,"h":90}
+},
+{
+	"filename": "coal-guy-running-12.svg",
+	"frame": {"x":210,"y":0,"w":70,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":90},
+	"sourceSize": {"w":70,"h":90}
+},
+{
+	"filename": "coal-guy-running-13.svg",
+	"frame": {"x":280,"y":0,"w":70,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":90},
+	"sourceSize": {"w":70,"h":90}
+},
+{
+	"filename": "coal-guy-running-14.svg",
+	"frame": {"x":350,"y":0,"w":70,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":90},
+	"sourceSize": {"w":70,"h":90}
+},
+{
+	"filename": "coal-guy-running-15.svg",
+	"frame": {"x":420,"y":0,"w":70,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":90},
+	"sourceSize": {"w":70,"h":90}
+},
+{
+	"filename": "coal-guy-running-16.svg",
+	"frame": {"x":490,"y":0,"w":70,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":90},
+	"sourceSize": {"w":70,"h":90}
+},
+{
+	"filename": "coal_guy_hurt-20.svg",
+	"frame": {"x":560,"y":0,"w":70,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":90},
+	"sourceSize": {"w":70,"h":90}
+},
+{
+	"filename": "coal_guy_hurt-21.svg",
+	"frame": {"x":630,"y":0,"w":70,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":90},
+	"sourceSize": {"w":70,"h":90}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "coal_guy2.png",
+	"format": "RGBA8888",
+	"size": {"w":700,"h":90},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:078f03f5e5782b313c8d64f998ff7d7e:bdcb32a22d9f1753d434e94eaa8be577:f89419f4c2e996ae003e36e46302bc8d$"
+}
+}

@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "coal-guy-climbing-22.png",
+	"frame": {"x":0,"y":0,"w":71,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":91},
+	"sourceSize": {"w":71,"h":91}
+},
+{
+	"filename": "coal-guy-climbing-23.png",
+	"frame": {"x":71,"y":0,"w":71,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":91},
+	"sourceSize": {"w":71,"h":91}
+},
+{
+	"filename": "coal-guy-climbing-24.png",
+	"frame": {"x":142,"y":0,"w":71,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":91},
+	"sourceSize": {"w":71,"h":91}
+},
+{
+	"filename": "coal-guy-climbing-25.png",
+	"frame": {"x":213,"y":0,"w":71,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":91},
+	"sourceSize": {"w":71,"h":91}
+},
+{
+	"filename": "coal-guy-jumping-18.png",
+	"frame": {"x":284,"y":0,"w":71,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":91},
+	"sourceSize": {"w":71,"h":91}
+},
+{
+	"filename": "coal-guy-jumping-19.png",
+	"frame": {"x":355,"y":0,"w":71,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":91},
+	"sourceSize": {"w":71,"h":91}
+},
+{
+	"filename": "coal-guy-running-12.png",
+	"frame": {"x":426,"y":0,"w":71,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":91},
+	"sourceSize": {"w":71,"h":91}
+},
+{
+	"filename": "coal-guy-running-13.png",
+	"frame": {"x":497,"y":0,"w":71,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":91},
+	"sourceSize": {"w":71,"h":91}
+},
+{
+	"filename": "coal-guy-running-14.png",
+	"frame": {"x":568,"y":0,"w":71,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":91},
+	"sourceSize": {"w":71,"h":91}
+},
+{
+	"filename": "coal-guy-running-15.png",
+	"frame": {"x":639,"y":0,"w":71,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":91},
+	"sourceSize": {"w":71,"h":91}
+},
+{
+	"filename": "coal-guy-running-16.png",
+	"frame": {"x":710,"y":0,"w":71,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":91},
+	"sourceSize": {"w":71,"h":91}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "coal_guy.png",
+	"format": "RGBA8888",
+	"size": {"w":781,"h":91},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:741b98237c108e63eb4ef892a8e6081d:b97aebf8b7e3c0d44cef76aa34096a56:6103a09559a7c088621a9cd14409cac1$"
+}
+}
